@@ -1,0 +1,17 @@
+.chat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    color: #fff;
+    border: 1px solid #fc6600;
+    border-radius : 10px;
+    font-weight: bold;
+    padding: 5px;
+}
+.buttons_align{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
